@@ -13,8 +13,8 @@ namespace Objects_Inheritance
             Console.WriteLine("Enter key words (basic/pro/expert)");
             string choice = Console.ReadLine();
 
-            DocumentProgram docProgram = new DocumentProgram();
-            /*DocumentProgram docProgram;*/
+            /*DocumentProgram docProgram = new DocumentProgram();*/
+            DocumentProgram docProgram = null;
 
             if (choice.Equals("basic"))
             {
