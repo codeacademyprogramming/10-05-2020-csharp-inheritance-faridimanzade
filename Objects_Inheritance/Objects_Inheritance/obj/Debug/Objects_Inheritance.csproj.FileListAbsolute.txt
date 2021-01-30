@@ -1,0 +1,7 @@
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Objects_Inheritance\Objects_Inheritance\Objects_Inheritance\bin\Debug\Objects_Inheritance.exe.config
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Objects_Inheritance\Objects_Inheritance\Objects_Inheritance\bin\Debug\Objects_Inheritance.exe
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Objects_Inheritance\Objects_Inheritance\Objects_Inheritance\bin\Debug\Objects_Inheritance.pdb
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Objects_Inheritance\Objects_Inheritance\Objects_Inheritance\obj\Debug\Objects_Inheritance.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Objects_Inheritance\Objects_Inheritance\Objects_Inheritance\obj\Debug\Objects_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Objects_Inheritance\Objects_Inheritance\Objects_Inheritance\obj\Debug\Objects_Inheritance.exe
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Objects_Inheritance\Objects_Inheritance\Objects_Inheritance\obj\Debug\Objects_Inheritance.pdb
